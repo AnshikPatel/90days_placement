@@ -25,4 +25,4 @@ alter table users drop column is_active;
 alter table users MODIFY column name VARCHAR(150); 
 
 
-insert into user values(1,'anshik','anshikpatel16aug@gmail.com','Male',16/08/2004);
+insert into user values(1,'anshik','anshikpatel16aug@gmail.com','Male',"16-08-2004");
